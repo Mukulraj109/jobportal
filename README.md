@@ -31,7 +31,7 @@ Welcome to the Job Site Application! This project is a platform where users can 
    - View all the jobs you have applied to.
    - Manage your job applications.
 
-### Optional Features (Above & Beyond)
+### Above & Beyond Features 
 1. **Employer Profile Management**:
    - Employers can create profiles and manage job postings.
    
