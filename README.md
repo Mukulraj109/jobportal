@@ -78,14 +78,11 @@ Welcome to the Job Site Application! This project is a platform where users can 
 3. Browse job openings and apply filters as needed.
 4. Apply to jobs and track your applications in the dashboard.
 
-## Database Schema
 
-[Include an ER diagram or describe the database schema if applicable.]
 
 ## Deployment
 
-The application is deployed on [Heroku/Netlify]. You can access it at [your-app-link].
-
+The application is deployed on [Netlify]. You can access it at [https://jobquested.netlify.app/]
 To deploy locally using Docker:
 1. Build the Docker image:
    ```bash
@@ -96,9 +93,6 @@ To deploy locally using Docker:
    docker run -p 3000:3000 job-site-app
    ```
 
-## Additional Features
-
-- [List any additional features or customizations you implemented.]
 
 ## Contributing
 
